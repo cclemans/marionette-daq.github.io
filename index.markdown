@@ -36,11 +36,12 @@ These are totally wrong, but here's what we started with:
  What               | How Much
  ----               | --------:
  3.3V GPIO          | 60
- 12 bit 1Msps ADC	  | 15
+ 12 bit 1Msps ADC	  | 14
  12 bit DAC         |  5
- I2C interface      |  2
+ I2C interface      |  1
  CAN 2.0B interface |  1
- SPI	interface     |  1
+ SPI	interface      |  2
+ UART               |  3 
  SD Card	           |  1
 
 ## Links
